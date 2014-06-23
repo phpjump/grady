@@ -1,10 +1,8 @@
 #Grady
 Personal framework
 
-Includes
-```
 Directories
-
+```
 grady/
 |
 ├── css/
