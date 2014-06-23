@@ -12,12 +12,10 @@ grady/
 |   ├── grady.min.css
 |   └── demo.css
 |
-├── demo
+├── demo/
 |   └── demo.html
 |
 └── js/
     ├── grady.js
-    ├── grady.min.js
-    ├── 
-    └──
+    └── grady.min.js
 ```
