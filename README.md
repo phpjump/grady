@@ -10,7 +10,12 @@ Components:
  - Error message areas
  - Responsive menus
  
-Uses simple css classes to style components.
+    **A Grady checkbox.**
+
+ ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_checkbox_img.png)
+  
+   Code snippet for checkbox.
+
 ```html
 <div class="whl-chk-wrp" >
 	<span class="check-wrp">
@@ -20,14 +25,21 @@ Uses simple css classes to style components.
 </div>
 
 ```
-This code snippet would produce a checkbox like:
-
+ **A pair of Grady radio buttons**
  
-
- ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_checkbox_img.png)
+![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_radio_btn_img.png)
   
+Code snippet for single radio button.
 
+```html
+<div class="whl-radio-wrp" >
+	<span class="radio-wrp">
+		<input type="radio" name="name"/>
+	</span>
+	<span class="radio-label">Radio label</span>
+</div>	
 
+```
 Directories
 ```
 	grady/
