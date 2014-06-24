@@ -33,7 +33,7 @@ Code snippet for single radio button.
 	<span class="radio-wrp">
 		<input type="radio" name="name"/>
 	</span>
-	<span class="radio-label">Radio label</span>
+	<span class="radio-label">Radio label one</span>
 </div>	
 ```
 Directories
