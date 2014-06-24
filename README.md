@@ -10,7 +10,7 @@ Components:
  - Error message areas
  - Responsive menus
  
- **A Grady checkbox.**
+**A Grady checkbox.**
 
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_checkbox_img.png)
   
@@ -23,7 +23,7 @@ Components:
 	<span class="check-label">Checkbox label</span>
 </div>
 ```
- **A pair of Grady radio buttons**
+ **A pair of Grady radio buttons.**
  
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_radio_btn_img.png)
   
@@ -36,7 +36,7 @@ Code snippet for single radio button.
 	<span class="radio-label">Radio label one</span>
 </div>	
 ```
-Directories
+**Directories**
 ```
 	grady/
 	|
@@ -56,6 +56,7 @@ Directories
 Production still in progress.
 
 Other project:
- [The Reformat Blog]
+
+[The Reformat Blog]
  [The Reformat Blog]:http://thereformat.com
 
