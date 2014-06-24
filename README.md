@@ -10,6 +10,15 @@ Components:
  - Error message areas
  - Responsive menus
  
+**Implementation**
+Between <head> tags.
+```html
+<link rel="stylesheet" href="grady.min.css">
+```
+Before end </body> tag.
+```html
+<script src="grady.min.js"></script>
+```
 **A Grady checkbox.**
 
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_checkbox_img.png)
