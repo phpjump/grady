@@ -30,5 +30,5 @@ Directories
 ```
 Production still in progress.
 Other project:
- - [My blog]
- [My blog]:http://thereformat.com{:target="_blank"}
+ - [My blog](http://thereformat.com){:target="_blank"}
+
