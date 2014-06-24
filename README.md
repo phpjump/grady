@@ -29,3 +29,6 @@ Directories
 	    └── grady.min.js
 ```
 Production still in progress.
+Other project:
+ - [My blog]
+ [My blog]:http://thereformat.com
