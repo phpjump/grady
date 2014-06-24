@@ -20,6 +20,14 @@ Components:
 ```html
 <script src="grady.min.js"></script>
 ```
+**A Grady text field.**
+![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/text_field_img.png)
+
+  Code snippet for text field.
+  Simply add type for password,email or others.
+```html
+<input class="form-in">
+```
 **A Grady checkbox.**
 
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_checkbox_img.png)
