@@ -66,7 +66,8 @@ Code snippet for single radio button.
 Production still in progress.
 
 Other project:
-<a href="thereformat.com" target="_blank">The Reformat Blog</a>
+
+<a href="http://www.thereformat.com" target="_blank">The Reformat Blog</a>
 > [The Reformat Blog]
 >  [The Reformat Blog]:http://thereformat.com target="_blank"
 
