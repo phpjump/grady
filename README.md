@@ -23,7 +23,7 @@ Components:
 **A Grady text field.**
 
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/text_field_img.png)
-[checkmark]Hello
+
   Code snippet for text field.
   Simply add type for password,email or others.
 ```html
