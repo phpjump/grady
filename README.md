@@ -24,7 +24,7 @@ This code snippet would produce a checkbox like:
 
  
 
- ![checkmark]( https://raw.githubusercontent.com/markogrady1/grady/demo/images/grady_checkbox_img.png)
+ ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_checkbox_img.png)
   
 
 
