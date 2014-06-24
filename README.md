@@ -16,7 +16,7 @@ Components:
 ```html
 <link rel="stylesheet" href="grady.min.css">
 ```
- Before end __&lt;/body&gt;__ tag.
+ Before end `&lt;/body&gt;` tag.
 ```html
 <script src="grady.min.js"></script>
 ```
