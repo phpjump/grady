@@ -11,11 +11,11 @@ Components:
  - Responsive menus
  
 **Implementation**
-Between &lt;head&gt; tags.
+ Between _&lt;head&gt;_ tags.
 ```html
 <link rel="stylesheet" href="grady.min.css">
 ```
-Before end &lt;/body&gt; tag.
+ Before end _&lt;/body&gt;_ tag.
 ```html
 <script src="grady.min.js"></script>
 ```
