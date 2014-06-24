@@ -22,7 +22,7 @@ Uses simple css classes to style components.
 ```
 This code snippet would produce a checkbox like:
 
-   ![alt text](https://github.com/markogrady1/grady/demo/images/grady_checkbox_img.png "Checkbox example")
+   ![alt text](https://github.com/markogrady1/grady/tree/master/demo/images/grady_checkbox_img.png "Checkbox example")
 
 
 Directories
