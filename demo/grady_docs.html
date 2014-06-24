@@ -16,44 +16,59 @@
 <div class="row">
 <div class="c2"></div>
 <div class="c8">
+	<h1>Using Grady</h1>
+	<p>Simply add a link to the <span class="link-demo">grady.min.css</span> file between the &lt;head&gt; tags of your code.</p>
+	<pre class="prettyprint html">
+&lt;head&gt;
+	&lt;link rel="stylesheet" href="grady.min.css"&gt;
+&lt;/head&gt;
+	</pre>
+	<p>Next add a link to javascript file <span class="link-demo">grady.min.js</span> before the ending &lt;/body&gt; tag.</p>
+	<pre class="prettyprint html">
+&lt;script src="grady.min.js"&gt;&lt;/script&gt;
+	</pre>
 	<h1>Grady Framework</h1>
 	<p>Standard Grady form</p>
 	<label for="name">Name</label><br>
 <input name="name" class="form-in"/><br>
 <label for="address">Address</label><br>
-<input name="address" class="form-in"/><br>
+<input name="address" class="form-in"><br>
 <label for="email">Email</label><br>
 <input name="email" type="email"  class="form-in"/><br>
 <label for="password">Password</label><br>
-<input name="password" type="password" class="form-in"/>
+<input name="password" type="password" class="form-in">
 <br><br>
 
 <pre class="prettyprint html">
-&lt;div class="bobby" &gt;git it to me&lt;/div&gt;
-&lt;p&gt;git it to me&lt;/p&gt;
+&lt;input class="form-in"&gt;
 </pre>
 <br><br>
 <p>Default form submit button</p>
-<input type="submit" value="Submit">&nbsp;<input type="submit" value="Submit" class="pastel-btn-green">&nbsp;<input type="submit" value="Submit" class="pastel-btn-red"><br>
+<input type="submit" value="Submit">&nbsp;<input type="submit" value="Submit" class="pastel-btn-green">&nbsp;<input type="submit" value="Submit" class="pastel-btn-red">
+<pre class="prettyprint html">
+&lt;input type="submit" value="Submit"&gt;
+&lt;input type="submit" value="Submit" class="pastel-btn-green"&gt;
+&lt;input type="submit" value="Submit" class="pastel-btn-red"&gt;
+</pre>
 <p>HTML5 &lt;button&gt; tag style</p>
 <button>Send</button>&nbsp;<button class="pastel-btn-green">Send</button>&nbsp;<button class="pastel-btn-red">Send</button>
-
 <pre class="prettyprint html">
-&lt;div class="bobby" &gt;git it to me&lt;/div&gt;
-&lt;p&gt;git it to me&lt;/p&gt;
+&lt;button&gt;Send&lt;/button&gt;
+&lt;button class="pastel-btn-green"&gt;Send&lt;/button&gt;
+&lt;button class="pastel-btn-red"&gt;Send&lt;/button&gt;
 </pre>
+
 
 <p>Form confirmation message</p>
 <div class='form-confirm-msg' >Your details have been added</div>
 <p>Form error message</p>
 <div class='form-error-msg' >All fields must be filled.</div>
-<br><br>
 <pre class="prettyprint html">
 &lt;div class='form-confirm-msg'&gt;Your details have been added&lt;/div&gt;
 &lt;div class='form-error-msg'&gt;All fields must be filled.&lt;/div&gt;
 </pre>
-<br><br>
-
+<br>
+<p>Radio buttons and checkboxes</p><br>
 
 <div class="whl-chk-wrp">
 	<span class="check-wrp">
@@ -106,39 +121,55 @@
 </select>
 
 <pre class="prettyprint html">
-&lt;select class="drop">
-&lt;option>Element 1&lt;/option>
-&lt;option>Element 2&lt;/option>
-&lt;option>Element 3&lt;/option>
-&lt;/select>
+&lt;select class="drop"&gt;
+&lt;option&gt;Element 1&lt;/option&gt;
+&lt;option&gt;Element 2&lt;/option&gt;
+&lt;option&gt;Element 3&lt;/option&gt;
+&lt;/select&gt;
 </pre>
 
 <p class="section-title">Custom &lt;div&gt; buttons </p>
-<p>btn</p><div class="btn">btn1</div><br>
-<div class="btn pastel-btn-green">btn1</div><br>
-<div class="btn pastel-btn-red">btn1</div>
-<p>btn2</p><div class="btn btn2">btn2</div>
-<p>btn3</p><div class="btn btn3 pastel-btn-green">btn3</div>
-<p>btn4</p><div class="btn btn4 pastel-btn-red">btn4</div>
-<p>btn5</p><div class="btn btn5">btn5</div>
-<p>btn6</p><div class="btn btn6 pastel-btn-green">btn6</div>
-
+<p>btn</p><div class="btn">btn</div><br>
+<div class="btn pastel-btn-green">btn</div><br>
+<div class="btn pastel-btn-red">btn</div>
 <pre class="prettyprint html">
-&lt;div class="bobby" &gt;git it to me&lt;/div&gt;
-&lt;p&gt;git it to me&lt;/p&gt;
+&lt;div class="btn"&gt;&lt;/div&gt;
+&lt;div class="btn pastel-btn-green"&gt;&lt;/div&gt;
+&lt;div class="btn pastel-btn-red"&gt;&lt;/div&gt;
 </pre>
-
+<p>Bigger buttons</p>
+<p>btn2</p><div class="btn2">btn2</div>
+<pre class="prettyprint html">
+&lt;div class="btn2"&gt;&lt;/div&gt;
+</pre>
+<p>btn3</p><div class="btn3 pastel-btn-green">btn3</div>
+<pre class="prettyprint html">
+&lt;div class="btn3 pastel-btn-green"&gt;&lt;/div&gt;
+</pre>
+<p>btn4</p><div class="btn4 pastel-btn-red">btn4</div>
+<pre class="prettyprint html">
+&lt;div class="btn4 pastel-btn-red"&gt;&lt;/div&gt;
+</pre>
+<p>btn5</p><div class="btn5">btn5</div>
+<pre class="prettyprint html">
+&lt;div class="btn5"&gt;&lt;/div&gt;
+</pre>
+<p>btn6</p><div class="btn6 pastel-btn-green">btn6</div>
+<pre class="prettyprint html">
+&lt;div class="btn6 pastel-btn-green"&gt;&lt;/div&gt;
+</pre>
 <p>Information Buttons</p>
 <div class="row">
 <div class="c3 demo-div"><span class="btn btn-green">Success</span></div>
-<div class="c2 demo-div"><span class="btn btn-amber">Alert</span></div>
-<div class="c2 demo-div"><span class="btn btn-red">Warn</span></div>
+<div class="c2 demo-div"><span class="btn btn-amber">&nbsp;&nbsp;Alert&nbsp;&nbsp;</span></div>
+<div class="c2 demo-div"><span class="btn btn-red">&nbsp;&nbsp;Warn&nbsp;&nbsp;</span></div>
 </div>
 <br><br>
 <div class="clr"></div>
 <pre class="prettyprint html">
-&lt;div class="bobby" &gt;git it to me&lt;/div&gt;
-&lt;p&gt;git it to me&lt;/p&gt;
+&lt;div class="btn btn-green"&gt;Success&lt;/div&gt;
+&lt;div class="btn btn-amber"&gt;Alert&lt;/div&gt;
+&lt;div class="btn btn-red"&gt;Warn&lt;/div&gt;
 </pre>
 <div class="clr"></div>
 <br><br>
