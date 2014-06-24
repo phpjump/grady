@@ -19,6 +19,11 @@ Uses simple css classes to style components.
 	<span class="check-label">Checkbox label</span>
 </div>	
 ```
+This code snippet would produce a checkbox like:
+
+   ![alt text](https://github.com/markogrady/grady/demo/images/grady_checkbox_img.png "Checkbox example")
+
+
 Directories
 ```
 	grady/
