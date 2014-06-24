@@ -8,10 +8,9 @@ Components:
  - Checkboxes
  - Radio buttons
  - Error message areas
- - Responsive menus
+ - Responsive menu
  
-**Implementation**
-
+**Implementation**.
  Between __&lt;head&gt;__ tags.
 ```html
 <link rel="stylesheet" href="grady.min.css">
