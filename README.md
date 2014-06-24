@@ -11,7 +11,7 @@ Components:
  - Responsive menus
  
 **Implementation**
- Between _&lt;head&gt;_ tags.
+ Between __&lt;head&gt;__ tags.
 ```html
 <link rel="stylesheet" href="grady.min.css">
 ```
