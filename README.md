@@ -1,6 +1,7 @@
-#Grady
+Grady
+=
 Personal framework for quick styling of site.
-===============================
+-
 Components:
  - Input fields
  - Buttons
