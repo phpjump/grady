@@ -17,7 +17,8 @@ Uses simple css classes to style components.
 		<input type="checkbox" name=" "/>
 	</span>
 	<span class="check-label">Checkbox label</span>
-</div>	
+</div>
+
 ```
 This code snippet would produce a checkbox like:
 
