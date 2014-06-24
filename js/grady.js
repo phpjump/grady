@@ -1,6 +1,5 @@
 function displayMenu(menu){
 	var gui;
-	//var menu = document.getElementById('menu-list');
 	if (menu.className.match(/\blook-feel\b/)) 
     gui = true;
 
