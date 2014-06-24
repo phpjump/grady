@@ -12,10 +12,9 @@ Components:
  
     **A Grady checkbox.**
 
- ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_checkbox_img.png)
+![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_checkbox_img.png)
   
    Code snippet for checkbox.
-
 ```html
 <div class="whl-chk-wrp" >
 	<span class="check-wrp">
@@ -30,7 +29,6 @@ Components:
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_radio_btn_img.png)
   
 Code snippet for single radio button.
-
 ```html
 <div class="whl-radio-wrp" >
 	<span class="radio-wrp">
