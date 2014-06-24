@@ -22,10 +22,9 @@ Uses simple css classes to style components.
 ```
 This code snippet would produce a checkbox like:
 
- [Checkbox][checkmark].
+ 
 
- [checkmark]:https://github.com/markogrady1/grady/demo/images/grady_checkbox_img.png
-           "What are you smiling at?"
+ ![checkmark]( https://raw.githubusercontent.com/markogrady1/grady/demo/images/grady_checkbox_img.png)
   
 
 
