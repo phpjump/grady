@@ -24,7 +24,7 @@ This code snippet would produce a checkbox like:
 
    
 
-![Image](https://github.com/markogrady1/grady/demo/images/grady_checkbox_img.png)
+![Image](https://github.com/markogrady1/grady/blob/master/demo/images/grady_checkbox_img.png)
 Directories
 ```
 	grady/
