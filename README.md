@@ -10,7 +10,15 @@ Components:
  - Error message areas
  - Responsive menus
  
-
+Uses simple css classes to style components.
+```html
+<div class="whl-chk-wrp" >
+	<span class="check-wrp">
+		<input type="checkbox" name=" "/>
+	</span>
+	<span class="check-label">Checkbox label</span>
+</div>	
+```
 Directories
 ```
 	grady/
@@ -30,5 +38,6 @@ Directories
 ```
 Production still in progress.
 Other project:
- - [My blog](http://thereformat.com){:target="_blank"}
+ [My blog]
+ [My blog]:http://thereformat.com
 
