@@ -1,5 +1,5 @@
 #Grady
-Personal framework
+Personal framework for quick styling of site.
 
 Directories
 ```
@@ -17,3 +17,4 @@ grady/
     ├── grady.js
     └── grady.min.js
 ```
+Production still in progress.
