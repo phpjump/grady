@@ -16,14 +16,14 @@ Components:
 ```html
 <link rel="stylesheet" href="grady.min.css">
 ```
- Before end `</body>` tag.
+ Before ending `</body>` tag.
 ```html
 <script src="grady.min.js"></script>
 ```
 **A Grady text field.**
 
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/text_field_img.png)
-
+[checkmark]Hello
   Code snippet for text field.
   Simply add type for password,email or others.
 ```html
@@ -72,7 +72,7 @@ Code snippet for single radio button.
 	    ├── grady.js
 	    └── grady.min.js
 ```
-Production still in progress.
+Project status: Production still in progress.
 
 Other project:  
 <a href="http://www.thereformat.com" target="_blank">The Reformat Blog</a>
