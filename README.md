@@ -57,5 +57,5 @@ Production still in progress.
 
 Other project:
  [The Reformat Blog]
- [My blog]:http://thereformat.com
+ [The Reformat Blog]:http://thereformat.com
 
