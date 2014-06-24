@@ -11,8 +11,8 @@ Directories
 	|   
 	|
 	├── demo/
-	|   ├── grady_docs.html
-	|   └── demo.css
+	|   ├── demo.css
+	|   └── grady_docs.html
 	|
 	└── js/
 	    ├── grady.js
