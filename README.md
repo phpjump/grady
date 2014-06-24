@@ -1,10 +1,7 @@
 #Grady
 Personal framework for quick styling of site.
-Components:
- -Buttons
- -Input fields.
- -Radio buttons.
- 
+-------------------------------
+Components
  
 
 Directories
