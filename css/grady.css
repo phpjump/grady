@@ -263,7 +263,7 @@ label {
     border: 1px solid #357EBD;
     font-weight: bold;
     font-size: 1em;
-    width: 10%;
+    width: 90px;
     background-color: #428BCA;
     border-radius: 4px;
     color: #FFF;
@@ -278,39 +278,130 @@ label {
 }
 
 .btn1 {
-
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #357EBD;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 4px;
+    text-align: center;
     padding: 7px 25px;
+    color: #FFF;
+    background-color: #428BCA;
 }
-
+.btn1:hover {
+    cursor: pointer;
+    color: #FFF;
+    background-color: #3276B1;
+    border-color: #285E8E;
+}
 .btn2 {
-    width: 15%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #357EBD;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 4px;
+    text-align: center;
+    width: 100px;
     padding: 8px 25px;
+      color: #FFF;
+     background-color: #428BCA;
 }
-
+.btn2:hover {
+    cursor: pointer;
+    color: #FFF;
+    background-color: #3276B1;
+    border-color: #285E8E;
+}
 .btn3 {
-    width: 20%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #357EBD;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #428BCA;  
+    color: #FFF;
+    width: 120px;
     padding: 7px 25px;
+    
 }
-
+.btn3:hover {
+    cursor: pointer;
+    color: #FFF;
+    background-color: #3276B1;
+    border-color: #285E8E;
+}
 .btn4 {
-    width: 25%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #357EBD;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #428BCA;  
+    color: #FFF;
+    width: 145px;
     padding: 10px 25px;
 }
-
+.btn4:hover {
+    cursor: pointer;
+    color: #FFF;
+    background-color: #3276B1;
+    border-color: #285E8E;
+}
 .btn5 {
-    width: 30%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #357EBD;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #428BCA;  
+    color: #FFF;
+    width: 200px;
     padding: 12px 25px;
 }
-
+.btn5:hover {
+    cursor: pointer;
+    color: #FFF;
+    background-color: #3276B1;
+    border-color: #285E8E;
+}
 .btn6 {
-    width: 35%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #357EBD;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #428BCA;  
+    color: #FFF;
+    width: 230px;
     padding: 14px 25px;
 }
-
+.btn6:hover {
+    cursor: pointer;
+    color: #FFF;
+    background-color: #3276B1;
+    border-color: #285E8E;
+}
 .btn7 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border: 1px solid #357EBD;
+    font-weight: bold;
+    font-size: 1em;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #428BCA;  
+    color: #FFF;
     width: 40%;
 }
-
+.btn7:hover {
+    cursor: pointer;
+    color: #FFF;
+    background-color: #3276B1;
+    border-color: #285E8E;
+}
 .pastel-btn-green {
     background-color: #DFF0D8;
     border: 1px solid #a9a9a9;
@@ -394,15 +485,10 @@ label {
 |====================================
 */
 .btn-green {
-    padding: 7px 25px;
+    width:90px;
     border: 1px solid #4CAE4C;
-    font-weight: bold;
-    font-size: 1em;
-    width: 10%;
     background-color: #5CB85C;
-    border-radius: 4px;
-    color: #FFF;
-    text-align: center;
+   
 }
 
 .btn-green:hover {
@@ -421,28 +507,15 @@ label {
 }
 
 .btn-amber {
-    padding: 7px 25px;
-
-    font-weight: bold;
-    font-size: 1em;
-    width: 10%;
+     width:90px;
     background-color: #F0AD4E;
     border: 1px solid #EEA236;
-    border-radius: 4px;
-    color: #FFF;
-    text-align: center;
 }
 
 .btn-red {
-    padding: 7px 25px;
-    font-weight: bold;
-    font-size: 1em;
-    width: 10%;
+     width:90px;
     background-color: #D9534F;
     border: 1px solid #D43F3A;
-    border-radius: 4px;
-    color: #FFF;
-    text-align: center;
 }
 
 /*
