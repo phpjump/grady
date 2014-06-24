@@ -54,7 +54,8 @@ Directories
 	    └── grady.min.js
 ```
 Production still in progress.
+
 Other project:
- [My blog]
+ [The Reformat Blog]
  [My blog]:http://thereformat.com
 
