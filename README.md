@@ -1,7 +1,13 @@
 #Grady
 Personal framework for quick styling of site.
--------------------------------
-Components
+===============================
+Components:
+ - Input fields
+ - Buttons
+ - Checkboxes
+ - Radio buttons
+ - Error message areas
+ - Responsive menus
  
 
 Directories
