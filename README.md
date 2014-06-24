@@ -7,11 +7,12 @@ Directories
 	|
 	├── css/
 	|   ├── grady.css
-	|   ├── grady.min.css
-	|   └── demo.css
+	|   └── grady.min.css
+	|   
 	|
 	├── demo/
-	|   └── demo.html
+	|   ├── demo.html
+	|   └── demo.css
 	|
 	└── js/
 	    ├── grady.js
