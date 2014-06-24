@@ -12,11 +12,11 @@ Components:
  
 **Implementation**
 ===========================
- Between __&lt;head&gt;__ tags.
+ Between `<head>` tags.
 ```html
 <link rel="stylesheet" href="grady.min.css">
 ```
- Before end `&lt;/body&gt;` tag.
+ Before end `</body>` tag.
 ```html
 <script src="grady.min.js"></script>
 ```
