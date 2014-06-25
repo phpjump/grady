@@ -203,7 +203,16 @@ input, select {
 |----------------------------------
 |====================================
 */
+#name,#username,#email,#password,#password_confirm{
+    width:400px;
+}
+@media (max-width:600px){
 
+#name,#username,#email,#password,#password_confirm{
+    width:200px;
+}
+
+}
 .form-in {
     color:#444;
     border: 3px solid #bbb;
