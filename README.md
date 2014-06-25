@@ -55,7 +55,7 @@ Code snippet for single radio button.
 ```
 Form generator.
 -
-**Login Form**
+**Login Form**   
 Simply add the following code snippet for a quick login form.
 ```html
 <form id="gen-login"></form>
