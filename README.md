@@ -56,6 +56,14 @@ Code snippet for single radio button.
 	<span class="radio-label">Radio label one</span>
 </div>	
 ```
+Form generater.
+-
+Simply add the following code snippet for a quick login form.
+```html
+<form id="gen-login"></form>
+```
+This will produce the following output.
+![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/generated_login_form.png)
 **Directories**
 ```
 	grady/
