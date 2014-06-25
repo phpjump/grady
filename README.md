@@ -78,8 +78,7 @@ Generated code.
 </form>
 ```
 Other form combinations available.
-The following table lists the login form combinations and class names.
-
+The following table lists the login form combinations and class names.   
 Note: To add a `Remember Me` check box simply append `-r` to the class name.
 
 | Login Combination    		|Class Name 	         |
