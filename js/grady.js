@@ -19,21 +19,33 @@ var usernameRememberForm = document.getElementById('username-gen-login-r');
 
 if(defaultform!=null){
 	createLoginForm(defaultform);
+}else{
+
 }
 if(emailForm!=null){
 	createEmailLoginForm(emailForm);
+}else{
+	
 }
 if(usernameForm!=null){
 	createUsernameLoginForm(usernameForm);
+}else{
+	
 }
 if(emailRememberForm!=null){
 	createEmailRememberForm(emailRememberForm);
+}else{
+	
 }
 if(usernameRememberForm!=null){
 	createUsernameRememberForm(usernameRememberForm);
+}else{
+	
 }
 if(defaultRememberform!=null){
 	createDefaultRememberForm(defaultRememberform);
+}else{
+	
 }
 /*
 |
@@ -851,8 +863,13 @@ if(w>=601){
 window.onload = function(){
 	var menu = document.getElementById('menu-list');
 	var bars = document.getElementById('bars-wrp');
-	bars.addEventListener("click",function(){
+	if(bars!=null){
+		bars.addEventListener("click",function(){
 	displayMenu(menu);
 },false);
+	}else{
+
+	}
+	
 
 };
