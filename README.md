@@ -78,15 +78,16 @@ Generated code.
 </form>
 ```
 Other form combinations available.
+The following table lists the login form combinations and class names 
+Note: To add a `Remember Me` check box simply append `-r` to the class name.
 
-
-| Login Combination    |Class Name 	     |
-| ---------------------|:-------------------:| 
-| Name-Password        | `gen-login` 	     | 
-| Username-Password    |`username-gen-login` | 
-| Email-Password       | `email-gen-login`   | 
-
-
+| Login Combination    		|Class Name 	         |
+| --------------------------------|:--------------------:| 
+| Name-Password 		  | `gen-login`          | 
+| Username-Password    		  |`username-gen-login`  | 
+| Email-Password       	   	  | `email-gen-login`    | 
+|Name-Password w/ remember me	  |`gen-login-r`	 |
+|Username-Password w/ remember me |`username-gen-login-r`|	
 **Directories**
 ```
 	grady/
