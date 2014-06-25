@@ -3,6 +3,7 @@ Grady
 Personal framework for quick styling of site.
 -
 Components:
+ - Form components generator
  - Input fields
  - Buttons
  - Checkboxes
