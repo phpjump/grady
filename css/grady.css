@@ -1,3 +1,7 @@
+/*label:before{
+     content: "\a";
+    white-space: pre;
+}*/
 
 .h1-g {
     color: #444;
@@ -199,12 +203,15 @@ input, select {
 |----------------------------------
 |====================================
 */
+
 .form-in {
+    color:#444;
     border: 3px solid #bbb;
     line-height: 1.9em;
     width: 50%;
     border-radius: 5px;
-    padding-left: 5px;
+    margin:7px 0 5px 0;
+    padding-left:5px;
     font-size: 1em
 }
 
@@ -234,7 +241,8 @@ input[type='button']:hover, [type='submit']:hover, button:hover {
 }
 
 label {
-    color: #444;
+     padding-left:10px;
+    color: #888;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -243,12 +251,24 @@ label {
     width: 70%;
     margin: 10px auto 7px 20px;
 }
-
+input[type='submit'],button{
+    margin: 3px auto 7px 20px;
+}
 label {
     margin: 0 auto 7px 20px;
  }
 }
-
+/*
+|====================================
+|-----------------------------------
+| Generated form style
+|----------------------------------
+|====================================
+*/
+input#remember{
+    padding-left:10px;
+    margin: 0 0 10px 10px;
+}
 /*
 |====================================
 |-----------------------------------
@@ -459,7 +479,14 @@ label {
     border-left: 1px solid #a9a9a9;
     color: #555;
 }
-
+@media (max-width:600px){
+.whl-chk-wrp {
+    margin-left:20px;
+}
+.whl-radio-wrp {
+    margin-left:20px;
+}
+}
 /*
 |====================================
 |-----------------------------------
@@ -771,3 +798,17 @@ label {
 	text-decoration: none;
 }
 }
+/*
+|=================================================
+|-------------------------------------------------
+| Text styling
+|-------------------------------------------------
+|=================================================
+*/
+.highlight{
+    background-color: #eee;
+    border:1px solid #aaa;
+    border-radius:3px;
+    padding:0.01em 0.08em;
+}
+
