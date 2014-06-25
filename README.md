@@ -78,6 +78,8 @@ Generated code.
 </form>
 ```
 Other form combinations available.
+
+
 | Login Combination    |Class Name 	     |
 | ---------------------|:-------------------:| 
 | Name-Password        | `gen-login` 	     | 
