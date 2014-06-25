@@ -63,6 +63,7 @@ Simply add the following code snippet for a quick login form.
 <form id="gen-login"></form>
 ```
 This will produce the following output.
+
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/generated_login_form.png)
 **Directories**
 ```
