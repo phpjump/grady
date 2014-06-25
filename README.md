@@ -76,7 +76,7 @@ Generated code.
 ```
 Other field combinations available.
 The following table lists the login form combinations and class names.    
-For example for a form with a **Name field** and **Password field** add `gen-login` as the class value.    
+For example, to generate a form with a **Name field** and **Password field** add `gen-login` as the class value.    
 Note: To add a `Remember Me` check box simply append `-r` to the class name.
 
 | Login Combination    		  |Class Value 	         |
@@ -89,13 +89,13 @@ Note: To add a `Remember Me` check box simply append `-r` to the class name.
 
 
 **Sign-up/Register Form**
-| Login Combination    		  |Class Value 	         |
+
+| Sign-up Form Combinations 		  |Class Value 	         |
 | --------------------------------|:--------------------:| 
-| Name-Password 		  | `gen-login`          | 
-| Username-Password    		  |`username-gen-login`  | 
-| Email-Password       	   	  | `email-gen-login`    | 
-|Name-Password w/ remember me	  |`gen-login-r`	 |
-|Username-Password w/ remember me |`username-gen-login-r`|	
+| Name -Email -Password -Confirm Password		  | `gen-login`          | 
+| Username -Email -Password -Confirm Password   		  |`username-gen-login`  | 
+| Name -Username -Email -Password -Confirm Password  	   	  | `email-gen-login`    | 
+
 **Directories**
 ```
 	grady/
