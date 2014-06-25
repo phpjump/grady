@@ -55,6 +55,7 @@ Code snippet for single radio button.
 ```
 Form generator.
 -
+**Login Form**
 Simply add the following code snippet for a quick login form.
 ```html
 <form id="gen-login"></form>
@@ -73,11 +74,11 @@ Generated code.
 	<input type="submit" name="submit" value="Login">
 </form>
 ```
-Other form combinations available.
+Other field combinations available.
 The following table lists the login form combinations and class names.   
 Note: To add a `Remember Me` check box simply append `-r` to the class name.
 
-| Login Combination    		|Class Name 	         |
+| Login Combination    		  |Class Name 	         |
 | --------------------------------|:--------------------:| 
 | Name-Password 		  | `gen-login`          | 
 | Username-Password    		  |`username-gen-login`  | 
