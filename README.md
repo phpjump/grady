@@ -21,8 +21,7 @@ Components:
 ```html
 <script src="grady.min.js"></script>
 ```
-**A Grady text field.**
-
+**A Grady text field.**   
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/text_field_img.png)
 
   Code snippet for text field.
