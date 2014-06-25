@@ -98,7 +98,7 @@ Note: To add a `Remember Me` check box simply append `-r` to the class name.
 
 Example
 ```html
-<form id="username-gen-register"></form>
+<form id="full-gen-register"></form>
 ```
 This snippet produces a full set of fields for registering a user.  
 All you have to do is get the input values from either the `id` or `name` attributes and voila!!
