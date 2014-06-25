@@ -29,8 +29,7 @@ Components:
 ```html
 <input class="form-in">
 ```
-**A Grady checkbox.**
-
+**A Grady checkbox.**    
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_checkbox_img.png)
   
    Code snippet for checkbox.
@@ -42,8 +41,7 @@ Components:
 	<span class="check-label">Checkbox label</span>
 </div>
 ```
- **A pair of Grady radio buttons.**
- 
+ **A pair of Grady radio buttons.**    
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/grady_radio_btn_img.png)
   
 Code snippet for single radio button.
@@ -61,8 +59,7 @@ Simply add the following code snippet for a quick login form.
 ```html
 <form id="gen-login"></form>
 ```
-This will produce the following output.
-
+This will produce the following output.    
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/generated_login_form.png)
 
 Generated code.
