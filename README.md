@@ -1,3 +1,6 @@
+[![licence](http://img.shields.io/packagist/l/doctrine/orm.svg)
+
+
 Grady
 =
 Personal framework for quick styling of site.
