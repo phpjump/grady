@@ -92,9 +92,9 @@ Note: To add a `Remember Me` check box simply append `-r` to the class name.
 
 | Sign-up Form Combinations 		  |Class Value 	         |
 | --------------------------------|:--------------------:| 
-| Name -Email -Password -Confirm Password   | `gen-register`          | 
-| Username -Email -Password -Confirm Password   |`username-gen-register`  | 
-| Name -Username -Email -Password -Confirm Password  	  | `full-gen-register`    | 
+| Name **-** Email **-** Password **-** Confirm Password   | `gen-register`          | 
+| Username **-** Email **-** Password **-** Confirm Password   |`username-gen-register`  | 
+| Name **-** Username **-** Email **-** Password **-** Confirm Password  	  | `full-gen-register`    | 
 
 **Directories**
 ```
