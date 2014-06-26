@@ -90,7 +90,7 @@ Note: To add a `Remember Me` check box simply append `-r` to the class name.
 
 **Sign-up/Register Form**
 
-| Sign-up Form Combinations 		  |Class Value 	         |
+| Sign-up Form Combinations 		  |Class Value 	       |
 | --------------------------------|:--------------------:| 
 | Name **-** Email **-** Password **-** Confirm Password   | `gen-register`          | 
 | Username **-** Email **-** Password **-** Confirm Password   |`username-gen-register`  | 
