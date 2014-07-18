@@ -11,6 +11,7 @@ Components:
  - Error message areas
  - Responsive menu
  
+
 **Implementation**
 -
  Between `<head>` tags.
@@ -63,6 +64,7 @@ Simply add the following code snippet for a quick login form.
 This will produce the following output.    
 ![checkmark]( https://github.com/markogrady1/grady/raw/master/demo/images/generated_login_form.png)
 
+
 Generated code.
 ```html
 <form id="gen-login">
@@ -104,6 +106,7 @@ All you have to do is get the input values from either the `id` or `name` attrib
 Because the elements are not loaded from the server, they are not visible when viewing the source. It is however possible to view the generated code with the browser's developer tools. `Inspect Element`.    
 Each form field attribute( id, class, name, etc..) is named after it's specific label. So the **email** field will have an `id` of `email`.
 
+
 **Directories**
 ```
 	grady/
@@ -125,3 +128,5 @@ Project status: Production still in progress.
 
 Other project:  
 <a href="http://www.thereformat.com" target="_blank">The Reformat Blog</a>
+
+
