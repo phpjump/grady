@@ -87,7 +87,6 @@ Note: To add a `Remember Me` check box simply append `-r` to the class name.
 |Name **-** Password w/ remember me	  |`gen-login-r`	 |
 |Username **-** Password w/ remember me |`username-gen-login-r`|	
 
-
 **Sign-up/Register Form**
 
 | Sign-up Form Combinations 		  |Class Value 	       |
@@ -126,5 +125,3 @@ Project status: Production still in progress.
 
 Other project:  
 <a href="http://www.thereformat.com" target="_blank">The Reformat Blog</a>
-
-
