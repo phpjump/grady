@@ -105,7 +105,7 @@ This snippet produces a full set of fields for registering a user.
 All you have to do is obtain the input values from either the `id` or `name` attributes and voila!!   
 However in order to do this, remember to insert the `method` and `action` attributes/values inside the form tag.   
 Because the elements are not loaded from the server, they are not visible when viewing the source. It is however possible to view the generated code with the browser's developer tools. `Inspect Element`.    
-Each form field attribute( id, class, name, etc..) is named after it's specific label. So for example, the **email** field will have an **id** of `email`. The **name** attribute will also be the same value.
+Each form field attribute( id, class, name, etc..) is named after it's specific label. So for example, the **email** field will have an **id** of `email`. The **name** attribute will also consist of the same value.
 
 
 **Directories**
