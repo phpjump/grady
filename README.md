@@ -11,7 +11,6 @@ Components:
  - Error message areas
  - Responsive menu
  
-
 **Implementation**
 -
  Between `<head>` tags.
