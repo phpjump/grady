@@ -20,33 +20,39 @@ var usernameRememberForm = document.getElementById('username-gen-login-r');
 if(defaultform!=null){
 	createLoginForm(defaultform);
 }else{
-
+	//some code
 }
+
 if(emailForm!=null){
 	createEmailLoginForm(emailForm);
 }else{
-	
+	//some code	
 }
+
 if(usernameForm!=null){
 	createUsernameLoginForm(usernameForm);
 }else{
-	
+	//some code	
 }
+
 if(emailRememberForm!=null){
 	createEmailRememberForm(emailRememberForm);
 }else{
-	
+	//some code	
 }
+
 if(usernameRememberForm!=null){
 	createUsernameRememberForm(usernameRememberForm);
 }else{
-	
+	//some code	
 }
+
 if(defaultRememberform!=null){
 	createDefaultRememberForm(defaultRememberform);
 }else{
-	
+	//some code	
 }
+
 /*
 |
 |============================================================
